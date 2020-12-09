@@ -10,4 +10,4 @@ This javascript snippet for scriptable.app creates an iOS widget that presents y
 
 ## Contribution
 
-This script is mainly based on @letterror​s famoud TypeCooker.com :)
+This script is mainly based on @letterror​s famous [TypeCooker](https://typecooker.com) :)
