@@ -8,3 +8,6 @@ This javascript snippet for scriptable.app creates an iOS widget that presents y
 3. Long-press your iOS homescreen and add scriptable widget
 4. Select script in widget configurator
 
+## Contribution
+
+This script is mainly based on @letterror​s famoud TypeCooker.com :)
